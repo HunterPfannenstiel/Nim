@@ -1,0 +1,14 @@
+.controls {
+    margin-block: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 1rem;
+}
+
+@media (min-width: 40em) {
+    .controls {
+        margin-inline: auto;
+        max-width: 500px;
+    }
+}

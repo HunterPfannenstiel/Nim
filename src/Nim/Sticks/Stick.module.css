@@ -1,0 +1,32 @@
+.stick {
+    width: 25px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.stick div {
+    background-color: #7E571B;
+}
+
+.selected .upper_stick,
+.selected .lower_stick{
+    border: 3px solid #EDD713;
+}
+
+.upper_stick {
+    position: relative;
+    top: 5px;
+    height: 50%;
+    width: 50%;
+    margin-left: auto;
+    border-bottom-right-radius: 20px;
+}
+
+.lower_stick {
+    position: relative;
+    bottom: 5px;
+    height: 50%;
+    width: 50%;
+    margin-right: auto;
+    border-top-left-radius: 20px;
+}

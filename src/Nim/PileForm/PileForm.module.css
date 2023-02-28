@@ -1,0 +1,27 @@
+.pile_form {
+    border-top: 1px solid white;
+    padding-block: 1rem;
+    text-align: center;
+}
+
+.info {
+    display: flex;
+    padding-bottom: 1rem;
+    font-size: 1rem;
+}
+
+.info label {
+    margin-left: auto;
+    padding-right: 1rem;
+}
+
+.info input {
+    margin-right: auto;
+}
+
+.pile_form button {
+    padding: 1% 5%;
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 1px solid white;
+    border-radius: 8px;
+}

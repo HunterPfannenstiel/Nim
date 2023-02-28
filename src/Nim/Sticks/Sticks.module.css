@@ -1,0 +1,23 @@
+.sticks {
+    width: 50%;
+    margin: auto;
+    min-width: 250px;
+}
+
+.pile_container {
+    padding-bottom: 0.5rem;
+}
+
+.pile {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+@media (min-width: 40em) {
+    .pile {
+        max-width: 765px;
+    }
+}
