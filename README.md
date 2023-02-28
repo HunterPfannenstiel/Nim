@@ -1,7 +1,7 @@
 
 # Nim Game
 
-Play a game of Nim versus a friend or Bob Nim, the AI that knows how to win every game of Nim!
+Play a game of Nim versus a friend or Bob Nim, the AI that knows how to win every game of Nim! You can try your luck at [the website I created!](https://nim-ohshews.vercel.app/)
 
 
 ## The Logic Behind Bob Nim
